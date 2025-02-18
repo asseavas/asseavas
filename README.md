@@ -1,13 +1,13 @@
-<h2 align="left">👩‍💻 Hello world! I'm Alina</h2>
+<h2 align="left">👩‍💻 Hello world</h2>
 
 ###
 
-<p align="left">Frontend Developer | React | Typescript | Next</p>
+<p align="left">Frontend Developer | React | Typescript | Next.JS</p>
 
 ###
 
 <div align="left">
-  <a href="mailto:alinaklimovaa4@gmail.com" target="_blank">
+  <a href="mailto:alinaklimovaa4@gmail.com" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/%D0%B0lina%D0%BAlimova?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO8FShZBOQricJVrkZkAI4Q%3D%3D" target="_blank">
@@ -23,8 +23,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asseavas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=My%20Github%20stats" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asseavas&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/overview.svg" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/languages.svg" alt="languages graph"  />
 </div>
 
 ###
@@ -103,10 +103,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Snake Diagram -->
-  <img src="https://raw.githubusercontent.com/asseavas/asseavas/output/snake.svg" alt="Snake animation" style="width: 55%;" />
-
-  <!-- GIF -->
-  <img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" alt="GIF animation" style="width: auto; height: 160px;" />
+  <img src="https://raw.githubusercontent.com/asseavas/asseavas/output/snake.svg" alt="Snake animation" style="width: 80%;" align="center" />
 </div>
 
 ###
