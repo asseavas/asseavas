@@ -103,7 +103,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Snake Diagram -->
-  <img src="https://raw.githubusercontent.com/asseavas/asseavas/output/snake.svg" alt="Snake animation" style="width: 80%;" align="center" />
+  <img src="https://raw.githubusercontent.com/asseavas/asseavas/output/snake.svg" alt="Snake animation" style="width: 90%;" align="center" />
 </div>
 
 ###
