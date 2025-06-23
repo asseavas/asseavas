@@ -1,8 +1,12 @@
-<h2 align="left">👩‍💻 Hello world</h2>
+<div>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" height="35" />
+   &nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F7F7F7&vCenter=true&width=435&height=33&lines=Hello+world" alt="Typing SVG" />
+</div>
 
 ###
 
-<p align="left">Frontend Developer | React | Typescript | Next.JS</p>
+<p>Frontend Developer | React | Typescript | Next.Js</p>
 
 ###
 
@@ -10,9 +14,11 @@
   <a href="mailto:alinaklimovaa4@gmail.com" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
+   &nbsp;
   <a href="https://www.linkedin.com/in/%D0%B0lina%D0%BAlimova?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO8FShZBOQricJVrkZkAI4Q%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
+   &nbsp;
   <a href="http://t.me/freedomandonuts" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
   </a>
