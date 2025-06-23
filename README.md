@@ -70,7 +70,11 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
   <img width="9" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="32" alt="postgresql logo"  />
+  <img width="9" />
   <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="32" alt="prisma logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=firebase" height="32" alt="firebase logo"  />
   <img width="9" />
