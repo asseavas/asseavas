@@ -6,31 +6,18 @@
 
 ###
 
-<p>Frontend Developer | React | Typescript | Next.Js</p>
-
-###
-
 <div align="left">
   <a href="mailto:alinaklimovaa4@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" width="78" alt="gmail logo"  />
   </a>
    &nbsp;
   <a href="https://www.linkedin.com/in/%D0%B0lina%D0%BAlimova?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO8FShZBOQricJVrkZkAI4Q%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" width="75" alt="linkedin logo"  />
   </a>
    &nbsp;
   <a href="http://t.me/freedomandonuts" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" width="104" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/overview.svg" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/languages.svg" alt="languages graph"  />
 </div>
 
 ###
@@ -109,11 +96,16 @@
   <img src="https://skillicons.dev/icons?i=gherkin" height="32" alt="gherkin logo"  />
 </div>
 
+<br clear="both">
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/overview.svg" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/languages.svg" alt="languages graph"  />
+</div>
+
 ###
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Snake Diagram -->
   <img src="https://raw.githubusercontent.com/asseavas/asseavas/output/snake.svg" alt="Snake animation" style="width: 90%;" align="center" />
 </div>
-
-###
