@@ -22,6 +22,15 @@
 
 ###
 
+<br clear="both">
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/overview.svg" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/languages.svg" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">Frontend</h2>
 
 ###
@@ -96,16 +105,8 @@
   <img src="https://skillicons.dev/icons?i=gherkin" height="32" alt="gherkin logo"  />
 </div>
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/overview.svg" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/asseavas/github-stats-transparent/output/generated/languages.svg" alt="languages graph"  />
-</div>
-
 ###
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Snake Diagram -->
   <img src="https://raw.githubusercontent.com/asseavas/asseavas/output/snake.svg" alt="Snake animation" style="width: 90%;" align="center" />
 </div>
